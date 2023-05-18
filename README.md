@@ -2,7 +2,7 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiopertav&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiopertav&layout=compact&langs_count=16&theme=react"/>
+  <img align="right" width="300em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiopertav&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
@@ -13,7 +13,7 @@
     <img align="center" height="45" width="60" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="45" width="60" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="45" width="60" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-    <img align="center" height="45" width="60" alt="python-icon" src="https://www.flaticon.com/br/icone-gratis/servidor-sql_5815585?term=sql&page=1&position=22&origin=tag&related_id=5815585">
+    <img align="center" height="45" width="60" alt="python-icon" src="img/servidor-sql.png">
    </div>
     
   
